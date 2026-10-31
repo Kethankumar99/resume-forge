@@ -172,7 +172,7 @@ https://console.groq.com/keys
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resume-forge.git
+git clone https://(https://github.com/Kethankumar99/resume-forge)
 ```
 
 Navigate into the project
